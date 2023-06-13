@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name"></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="post_food">Add food</string>
+    <string name="close">Fermer</string>
+    <string name="food_name">Name of food</string>
+    <string name="description">Description</string>
+    <string name="prix">Prix</string>
+    <string name="post">Add</string>
+    <string name="food_image">Picture of food</string>
+</resources>
